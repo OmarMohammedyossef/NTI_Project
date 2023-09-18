@@ -1,5 +1,5 @@
 # School_Management_System
-This is a simple School Management System implemented in C. 
+This is a simple School Management System implemented in C Based on Data Structures and algorithms (Linked-List). 
 
 # Description
 This is a simple School Management System implemented in C. 
